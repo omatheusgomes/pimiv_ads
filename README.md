@@ -1,16 +1,19 @@
-<p align="center">
-    <img src="https://github.com/omatheusgomes/teste/blob/main/Design%20sem%20nome%20(2).png" alt="NexHelp" width="400px">
-</p>
+<h1 align="center" style="font-weight: bold;">NEXTHELP (Pim III)</h1>
 
 <p align="center">
  <a href="#about">Sobre Nós</a> • 
  <a href="#started">Getting Started</a> • 
   <a href="#started">App Routes</a> • 
   <a href="#colab">Colaboradores</a> •
- <a href="#contribute">Licença</a>
+ <a href="#licenca">Licença</a>
 </p>
 
-## 📌 Sobre a Empresa
+<p align="center">
+    <img src="https://github.com/omatheusgomes/teste/blob/main/Design%20sem%20nome%20(2).png" alt="NexHelp" width="400px">
+</p>
+
+
+## 📌 Sobre Nós
 
 
 <h2 id="colab">🤝 Colaboradores</h2>
@@ -62,7 +65,7 @@ Um agradecimento especial a todas as pessoas que contribuem para este projeto.
   </tr>
 </table>
 
-<h2 id="contribute">📫 Contribute</h2>
+<h2 id="licenca">📃 Licença</h2>
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
