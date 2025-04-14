@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://imgur.com/a/F9rKdmg" alt="NexHelp" width="400px">
+    <img src="https://github.com/omatheusgomes/teste/blob/main/next.png" alt="NexHelp" width="400px">
 </p>
 
 <p align="center">
