@@ -67,7 +67,7 @@ Um agradecimento especial a todas as pessoas que contribuem para este projeto.
 
 <h2 id="licenca">📃 Licença</h2>
 
-[MIT © Lucas Condé.](../LICENSE)
+[MIT © Lucas Condé.](https://github.com/omatheusgomes/teste/blob/main/LICENSE)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
