@@ -1,20 +1,43 @@
-<h1 align="center" style="font-weight: bold;">NEXTHELP (Pim III)</h1>
+<h1 align="center" style="font-weight: bold;">Nexhelp (Pim III)</h1>
 
 <p align="center">
  <a href="#about">Sobre Nós</a> • 
- <a href="#started">Getting Started</a> • 
-  <a href="#started">App Routes</a> • 
-  <a href="#colab">Colaboradores</a> •
- <a href="#licenca">Licença</a>
+ <a href="#desenv">Desenvolvimento</a> • 
+  <a href="#softw">Ferramentas</a> • 
+  <a href="#calendar">Cronogramas</a> • 
+  <a href="#colab">Colaboradores</a> 
 </p>
 
 <p align="center">
     <img src="https://github.com/omatheusgomes/teste/blob/main/Design%20sem%20nome%20(2).png" alt="NexHelp" width="400px">
 </p>
 
+<h2 id="about">📌 Sobre Nós</h2>
 
-## 📌 Sobre Nós
+Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer atendimento rápido, automatizado e eficiente. Combinando inteligência artificial e automação, garantimos uma experiência de HelpDesk moderna, inteligente e totalmente voltada à satisfação do cliente.
 
+<h2 id="desenv">🚀 Desenvolvimento</h2>
+
+<h2 id="softw">⚙️ Ferramentas</h2>
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+![Astah](https://img.shields.io/badge/astah-%3670A0?style=for-the-badge&logo=astah%20sql%20server&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+Para desenvolvimento dos sistemas Desktop e Mobile.
+
+<h2 id="calendar">📅 Cronogramas</h2>
+
+Here you can list the main routes of your API, and what are their expected request bodies.
+​
+| Duração             | Descrição                                         
+|----------------------|-----------------------------------------------------
+| <kbd>1 Semana</kbd>     | page that list all user info
+| <kbd>1 Semana</kbd>     | page to login
+| <kbd>1 Semana</kbd>     | Documentação do caderno do PIM
 
 <h2 id="colab">🤝 Colaboradores</h2>
 
@@ -71,12 +94,11 @@ Um agradecimento especial a todas as pessoas que contribuem para este projeto.
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![Phyton](https://img.shields.io/badge/--3670A0?logo=python&logoColor=ffdd54)](https://www.python.com/)
 [![Android](https://img.shields.io/badge/--3DDC84?logo=android&logoColor=ffffff)](https://www.android.com/)
-[![Astah](https://img.shields.io/badge/--3DDC84?logo=astah&logoColor=ffffff)](https://www.astah.com/)
