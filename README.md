@@ -21,15 +21,16 @@ Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer ate
 
 Entre as principais tecnologias utilizadas no para desenvolvimento do projeto estão:
 
-- Utilização do [Astah UML](https://astah.net/products/astah-uml/) para elaboração dos diagramas referentes as etapas do projeto.
-- Utilização da linguagem de programação [Python](https://www.python.com/) para implementação dos sistemas Desktop e Mobile.
-- Utilização da plataforma [Figma](https://www.figma.com/) para criação de protótipos interativos da interface do projeto.
+- Utilização do [Astah UML](https://astah.net/products/astah-uml/) para modelagem dos diagramas referentes as etapas do projeto.
+- Utilização da linguagem de programação [Python](https://www.python.com/), no editor [VSCode](https://code.visualstudio.com/) para implementação dos sistemas Desktop e Mobile.
+- Utilização da plataforma [Figma](https://www.figma.com/) para elaboração de protótipos interativos da interface do projeto.
 - Utilização do sistema [SQL Server](https://www.microsoft.com/pt-br/sql-server) para gerenciamento do banco de dados do projeto.
-  
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ![Astah](https://img.shields.io/badge/astah-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <h2 id="calendar">📅 Cronogramas</h2>
 
