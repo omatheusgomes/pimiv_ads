@@ -11,7 +11,6 @@
 <p align="center">
     <img src="https://github.com/omatheusgomes/teste/blob/main/Design%20sem%20nome%20(2).png" alt="NexHelp" width="400px">
 </p>
-
 <h2 id="about">📌 Sobre Nós</h2>
 
 Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer atendimento rápido, automatizado e eficiente. Combinando inteligência artificial e automação, garantimos uma experiência de HelpDesk moderna, inteligente e totalmente voltada à satisfação do cliente.
@@ -20,6 +19,13 @@ Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer ate
 
 <h2 id="softw">⚙️ Tecnologias</h2>
 
+Entre as principais tecnologias utilizadas no para desenvolvimento do projeto estão:
+
+- Utilização do [Astah UML](https://astah.net/products/astah-uml/) para elaboração dos diagramas referentes as etapas do projeto.
+- Utilização da linguagem de programação [Python](https://www.python.com/) para implementação dos sistemas Desktop e Mobile.
+- Utilização da plataforma [Figma](https://www.figma.com/) para criação de protótipos interativos da interface do projeto.
+- Utilização do sistema [SQL Server](https://www.microsoft.com/pt-br/sql-server) para gerenciamento do banco de dados do projeto.
+  
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Astah](https://img.shields.io/badge/astah-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
@@ -87,14 +93,3 @@ Um agradecimento especial a todas as pessoas que contribuem para este projeto.
 <h2 id="licenca">📃 Licença</h2>
 
 [MIT © Lucas Condé.](https://github.com/omatheusgomes/teste/blob/main/LICENSE)
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
-[![Phyton](https://img.shields.io/badge/--3670A0?logo=python&logoColor=ffdd54)](https://www.python.com/)
-[![Android](https://img.shields.io/badge/--3DDC84?logo=android&logoColor=ffffff)](https://www.android.com/)
