@@ -39,9 +39,9 @@ A interface do NexHelp foi prototipada no Figma, com foco em uma experiência cl
 
 Utilizamos o brModelo para criação dos diagramas do banco de dados e o SQL Server como sistema gerenciador, assegurando estrutura, integridade e desempenho nas operações com os dados do sistema NexHelp.
 
-<h2 id="softw">⚙️ Tecnologias</h2>
+<h2 id="softw">⚙️ Ferramentas</h2>
 
-Entre as principais tecnologias utilizadas no para desenvolvimento do projeto estão:
+Entre as principais ferramentas utilizadas no desenvolvimento do projeto estão:
 
 - Utilização do [Astah UML](https://astah.net/products/astah-uml/) para modelagem dos diagramas referentes as etapas do projeto.
 - Utilização da linguagem de programação [Python](https://www.python.com/), no editor [VSCode](https://code.visualstudio.com/) para implementação dos sistemas Desktop e Mobile.
