@@ -1,21 +1,28 @@
-<h1 align="center" style="font-weight: bold;">Nexhelp -PIM III</h1>
+<h1 align="center" style="font-weight: bold;">Nexhelp - PIM III</h1>
 
 <p align="center">
  <a href="#about">Sobre Nós</a> • 
  <a href="#desenv">Desenvolvimento</a> • 
   <a href="#softw">Tecnologias</a> • 
-  <a href="#calendar">Cronogramas</a> • 
+  <a href="#calendar">Entregas</a> • 
   <a href="#colab">Colaboradores</a> 
 </p>
 
 <p align="center">
-    <img src="https://github.com/omatheusgomes/teste/blob/main/Design%20sem%20nome%20(2).png" alt="NexHelp" width="400px">
+    <img src="https://github.com/omatheusgomes/teste/blob/main/Design%20sem%20nome%20(2).png" alt="NexHelp" width="200px">
 </p>
 <h2 id="about">📌 Sobre Nós</h2>
 
 Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer atendimento rápido, automatizado e eficiente. Combinando inteligência artificial e automação, garantimos uma experiência de HelpDesk moderna, inteligente e totalmente voltada à satisfação do cliente.
 
 <h2 id="desenv">🚀 Desenvolvimento</h2>
+
+### Interface
+
+A interface do sistema NexHelp é intuitiva e eficiente, projetada para facilitar o atendimento e a navegação. Com design minimalista e foco na usabilidade, permite que usuários e atendentes acessem rapidamente as funcionalidades com fluidez e sem distrações (Imagens do Protótipo do Figma)
+
+<img src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/50013213235/original/nh5u0iN7m_Tvtkl51lEnOH-X6OgVatzBMw.png?1727434133" alt="SprintBacklog" width="380px"> <img src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/50010235300/original/0Wo6qYSUes4m9zkaW_SCRGOFfHpOYkFkAQ.png?1701267598" alt="SprintBacklog" width="400px"> <img src="https://d3h0owdjgzys62.cloudfront.net/images/7186/live_screenshot/large2x/call_ticket_and_recording.png" alt="SprintBacklog" width="380px"> 
+<img src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/50010235458/original/Ee5Q5g9zB0Y2j-9JO02J6qoezt5yFJzC8Q.png?1701268194" alt="SprintBacklog" width="390px">
 
 <img src="https://github.com/omatheusgomes/teste/blob/main/Black%20and%20Pink%20Simple%20Marketing%20Strategy%20Infographic%20Presentation%20(1).png" alt="SprintBacklog" width="600px">
 
@@ -34,7 +41,7 @@ Entre as principais tecnologias utilizadas no para desenvolvimento do projeto es
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-<h2 id="calendar">📅 Cronogramas</h2>
+<h2 id="calendar">📅 Entregas</h2>
 
 | Datas | Links | Objetivos            
 |----------------------|-------------------|----------------------------------
