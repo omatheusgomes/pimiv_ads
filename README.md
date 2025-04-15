@@ -26,6 +26,10 @@ A modelagem do sistema foi feita utilizando a linguagem UML, com o auxílio da f
 <img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/sprints_img.png" alt="SprintBacklog" width="700px">
 </p>
 
+<p align="center">
+<img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/diagramas_img.png" alt="SprintBacklog" width="700px"> 
+</p>
+
 ### Interface
 
 A interface do NexHelp foi prototipada no Figma, com foco em uma experiência clean, interativa e eficiente. O design prioriza a usabilidade, permitindo navegação fluida e intuitiva para usuários e atendentes.
@@ -41,9 +45,6 @@ Utilizamos o brModelo para criação dos diagramas do banco de dados e o SQL Ser
 
 <p align="center">
 <img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/bancomodelos_img.png" alt="SprintBacklog" width="700px"> 
-</p>
-<p align="center">
-<img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/diagramas_img.png" alt="SprintBacklog" width="700px"> 
 </p>
 
 <h2 id="softw">⚙️ Ferramentas</h2>
