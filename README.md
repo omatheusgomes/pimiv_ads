@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/omatheusgomes/teste/blob/main/Design%20sem%20nome%20(2).png" alt="NexHelp" width="300px">
+    <img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/logo_img.png" alt="NexHelp" width="300px">
 </p>
 <h2 id="about">📌 Sobre Nós</h2>
 
@@ -22,7 +22,7 @@ Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer ate
 A modelagem do sistema foi feita utilizando a linguagem UML, com o auxílio da ferramenta Astah para criação de diagramas como casos de uso, classes e sequência, garantindo uma visão clara e organizada do funcionamento do sistema.
 
 <p align="center">
-<img src="https://github.com/omatheusgomes/teste/blob/main/Imagens/sprints_img.png" alt="SprintBacklog" width="700px">
+<img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/sprints_img.png" alt="SprintBacklog" width="700px">
 </p>
 
 ### Interface
@@ -30,7 +30,7 @@ A modelagem do sistema foi feita utilizando a linguagem UML, com o auxílio da f
 A interface do NexHelp foi prototipada no Figma, com foco em uma experiência clean, interativa e eficiente. O design prioriza a usabilidade, permitindo navegação fluida e intuitiva para usuários e atendentes.
 
 <p align="center">
-<img src="https://github.com/omatheusgomes/teste/blob/main/Imagens/interface_img.png" alt="SprintBacklog" width="700px"> 
+<img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/interface_img.png" alt="SprintBacklog" width="700px"> 
 </p>
 
 ### Banco de Dados
@@ -58,10 +58,10 @@ Entre as principais tecnologias utilizadas no para desenvolvimento do projeto es
 
 | Datas | Links | Objetivos            
 |----------------------|-------------------|----------------------------------
-| 14/04 à 21/04 | [Sprint 1](https://github.com/omatheusgomes/teste/tree/Sprint-1) | Modelagem de Artefatos UML (Backlogs, Diagramas e Planilhas). 
-| 21/04 à 28/04 | Sprint 2 | Elaboração de Protótipo de Interface Gráfica.
-| 28/04 à 09/05 | Sprint 3 | Estruturação do Banco de Dados e seus relacionamentos.
-| 10/05 à 21/05 | Sprint 4 | Documentação completa do PIM (Caderno).
+| 14/04 à 21/04 | [Sprint 1](https://github.com/lucasconde16/pim3/tree/Sprint-1) | Modelagem de Artefatos UML (Backlogs, Diagramas e Planilhas). 
+| 21/04 à 28/04 | [Sprint 2](https://github.com/lucasconde16/pim3/tree/Sprint-2) | Elaboração de Protótipo de Interface Gráfica.
+| 28/04 à 09/05 | [Sprint 3](https://github.com/lucasconde16/pim3/tree/Sprint-3) | Estruturação do Banco de Dados e seus relacionamentos.
+| 10/05 à 21/05 | [Sprint 4](https://github.com/lucasconde16/pim3/tree/Sprint-4) | Documentação completa do PIM (Caderno).
 
 <h2 id="colab">🤝 Colaboradores</h2>
 
@@ -114,4 +114,4 @@ Um agradecimento especial a todas as pessoas que contribuem para este projeto.
 
 <h2 id="licenca">📃 Licença</h2>
 
-[MIT © Lucas Condé.](https://github.com/omatheusgomes/teste/blob/main/LICENSE)
+[MIT © Lucas Condé.](https://github.com/lucasconde16/pim3/blob/main/LICENSE)
