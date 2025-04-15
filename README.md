@@ -17,6 +17,8 @@ Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer ate
 
 <h2 id="desenv">🚀 Desenvolvimento</h2>
 
+<img src="https://github.com/omatheusgomes/teste/blob/main/Black%20and%20Pink%20Simple%20Marketing%20Strategy%20Infographic%20Presentation.png" alt="SprintBacklog" width="600px">
+
 <h2 id="softw">⚙️ Tecnologias</h2>
 
 Entre as principais tecnologias utilizadas no para desenvolvimento do projeto estão:
@@ -34,13 +36,12 @@ Entre as principais tecnologias utilizadas no para desenvolvimento do projeto es
 
 <h2 id="calendar">📅 Cronogramas</h2>
 
-Here you can list the main routes of your API, and what are their expected request bodies.
-​
-| Duração             | Descrição                                         
-|----------------------|-----------------------------------------------------
-| <kbd>1 Semana</kbd>     | Descrever
-| <kbd>1 Semana</kbd>     | Descrever
-| <kbd>1 Semana</kbd>     | Documentação do caderno do PIM
+| Data | Link | Definição            
+|----------------------|-------------------|----------------------------------
+| 14/04 à 21/04 | Sprint 1 | Modelagem de Artefatos UML (Backlogs, Diagramas e Planilhas). 
+| 21/04 à 28/04 | Sprint 2 | Elaboração de Protótipo de Interface Gráfica.
+| 28/04 à 09/05 | Sprint 3 | Estruturação do Banco de Dados e seus relacionamentos.
+| 10/05 à 21/05 | Sprint 4 | Documentação completa do PIM (Caderno).
 
 <h2 id="colab">🤝 Colaboradores</h2>
 
