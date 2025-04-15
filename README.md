@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/omatheusgomes/teste/blob/main/Design%20sem%20nome%20(2).png" alt="NexHelp" width="200px">
+    <img src="https://github.com/omatheusgomes/teste/blob/main/Design%20sem%20nome%20(2).png" alt="NexHelp" width="300px">
 </p>
 <h2 id="about">📌 Sobre Nós</h2>
 
