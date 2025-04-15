@@ -17,7 +17,7 @@ Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer ate
 
 <h2 id="desenv">🚀 Desenvolvimento</h2>
 
-<img src="https://github.com/omatheusgomes/teste/blob/main/Black%20and%20Pink%20Simple%20Marketing%20Strategy%20Infographic%20Presentation.png" alt="SprintBacklog" width="600px">
+<img src="https://github.com/omatheusgomes/teste/blob/main/Black%20and%20Pink%20Simple%20Marketing%20Strategy%20Infographic%20Presentation%20(1).png" alt="SprintBacklog" width="600px">
 
 <h2 id="softw">⚙️ Tecnologias</h2>
 
@@ -36,7 +36,7 @@ Entre as principais tecnologias utilizadas no para desenvolvimento do projeto es
 
 <h2 id="calendar">📅 Cronogramas</h2>
 
-| Data | Link | Definição            
+| Datas | Links | Objetivos            
 |----------------------|-------------------|----------------------------------
 | 14/04 à 21/04 | Sprint 1 | Modelagem de Artefatos UML (Backlogs, Diagramas e Planilhas). 
 | 21/04 à 28/04 | Sprint 2 | Elaboração de Protótipo de Interface Gráfica.
