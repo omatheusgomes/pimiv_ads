@@ -3,7 +3,7 @@
 <p align="center">
  <a href="#about">Sobre Nós</a> • 
  <a href="#desenv">Desenvolvimento</a> • 
-  <a href="#softw">Tecnologias</a> • 
+  <a href="#softw">Ferramentas</a> • 
   <a href="#calendar">Entregas</a> • 
   <a href="#colab">Colaboradores</a> 
 </p>
@@ -38,6 +38,13 @@ A interface do NexHelp foi prototipada no Figma, com foco em uma experiência cl
 
 
 Utilizamos o brModelo para criação dos diagramas do banco de dados e o SQL Server como sistema gerenciador, assegurando estrutura, integridade e desempenho nas operações com os dados do sistema NexHelp.
+
+<p align="center">
+<img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/bancomodelos_img.png" alt="SprintBacklog" width="700px"> 
+</p>
+<p align="center">
+<img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/diagramas_img.png" alt="SprintBacklog" width="700px"> 
+</p>
 
 <h2 id="softw">⚙️ Ferramentas</h2>
 
