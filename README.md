@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/logo_img.png" alt="NexHelp" width="300px">
+    <img src="https://github.com/omatheusgomes/teste/blob/main/Imagens/logo_img.png" alt="NexHelp" width="400px">
 </p>
+
 <h2 id="about">📌 Sobre Nós</h2>
 
 Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer atendimento rápido, automatizado e eficiente. Combinando inteligência artificial e automação, garantimos uma experiência de HelpDesk moderna, inteligente e totalmente voltada à satisfação do cliente.
