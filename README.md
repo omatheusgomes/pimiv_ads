@@ -18,30 +18,22 @@ Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer ate
 
 <h2 id="desenv">🚀 Desenvolvimento</h2>
 
-### Modelagem
+### [Modelagem](https://github.com/lucasconde16/pim3/tree/Sprint-1)
 
 A modelagem do sistema foi feita utilizando a linguagem UML, com o auxílio da ferramenta Astah para criação de diagramas como casos de uso, classes e sequência, garantindo uma visão clara e organizada do funcionamento do sistema.
 
-<p align="center">
-<img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/sprints_img.png" alt="SprintBacklog" width="300px"> <img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/diagramas_img.png" alt="SprintBacklog" width="300px"> 
-</p>
-
-### Interface
+### [Interface](https://github.com/lucasconde16/pim3/tree/Sprint-2)
 
 A interface do NexHelp foi prototipada no Figma, com foco em uma experiência clean, interativa e eficiente. O design prioriza a usabilidade, permitindo navegação fluida e intuitiva para usuários e atendentes.
 
-<p align="center">
-<img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/interface_img.png" alt="SprintBacklog" width="300px"> 
-</p>
-
-### Banco de Dados
-
+### [Banco de Dados](https://github.com/lucasconde16/pim3/tree/Sprint-3)
 
 Utilizamos o brModelo para criação dos diagramas do banco de dados e o SQL Server como sistema gerenciador, assegurando estrutura, integridade e desempenho nas operações com os dados do sistema NexHelp.
 
-<p align="center">
-<img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/bancomodelos_img.png" alt="SprintBacklog" width="300px"> 
-</p>
+### [Testes](https://github.com/lucasconde16/pim3/tree/Sprint-4)
+
+Foi elaborada uma planilha de testes de usabilidade no Excel, contendo os cenários, critérios e fluxos que serão utilizados em testes futuros para validar a experiência do usuário e a eficiência das funcionalidades do sistema NexHelp.
+
 
 <h2 id="softw">⚙️ Ferramentas</h2>
 
@@ -50,13 +42,14 @@ Utilizamos o brModelo para criação dos diagramas do banco de dados e o SQL Ser
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 Entre as principais ferramentas utilizadas no desenvolvimento do projeto estão:
 - Utilização do [Astah UML](https://astah.net/products/astah-uml/) para modelagem dos diagramas referentes as etapas do projeto.
 - Utilização da linguagem de programação [Python](https://www.python.com/), no editor [VSCode](https://code.visualstudio.com/) para implementação dos sistemas Desktop e Mobile.
 - Utilização da plataforma [Figma](https://www.figma.com/) para elaboração de protótipos interativos da interface do projeto.
 - Utilização do sistema [SQL Server](https://www.microsoft.com/pt-br/sql-server) para gerenciamento do banco de dados do projeto.
-
+- Utilização do [Excel](https://excel.cloud.microsoft/) para criação das planilhas de testes de usabilidade do sistema.
 <h2 id="calendar">📅 Entregas</h2>
 
 | Datas | Links | Objetivos            
@@ -64,7 +57,7 @@ Entre as principais ferramentas utilizadas no desenvolvimento do projeto estão:
 | 14/04 à 21/04 | [Sprint 1](https://github.com/lucasconde16/pim3/tree/Sprint-1) | Modelagem dos Artefatos da UML. 
 | 21/04 à 28/04 | [Sprint 2](https://github.com/lucasconde16/pim3/tree/Sprint-2) | Elaboração do Protótipo de Interface Gráfica.
 | 28/04 à 09/05 | [Sprint 3](https://github.com/lucasconde16/pim3/tree/Sprint-3) | Estruturação do Banco de Dados e seus relacionamentos.
-| 10/05 à 21/05 | [Sprint 4](https://github.com/lucasconde16/pim3/tree/Sprint-4) | Documentação completa do PIM (Caderno).
+| 10/05 à 21/05 | [Sprint 4](https://github.com/lucasconde16/pim3/tree/Sprint-4) | Criação da Planilha de Testes de Usabilidade.
 
 <h2 id="colab">🤝 Colaboradores</h2>
 
