@@ -83,11 +83,13 @@ O desafio consiste em desenvolver um sistema de suporte técnico baseado, seguin
 Passos para rodar o sistema, instalar dependências, etc. (mesmo que seja simples agora).
 
 <h2 id="doc">📂 Documentação</h2>
-- [Pasta Geral de Documentação](./Documentacao)  
-  - Checklist DoR e DoD  
-  - Backlogs  
-  - Diagramas UML (futuro)  
-  - Manual do Usuário  
+
+Toda a documentação do projeto está organizada na pasta [Documentacao](./Documentacao).
+
+- [Backlog do Produto](./Documentacao/Backlog_Produto.md)  
+- [Backlog da Sprint 1](./Documentacao/Sprint1/Backlog_Sprint1.md)   
+- [Diagramas UML](./Documentacao/UML/) *(em desenvolvimento)*  
+- [Manual do Usuário](./Documentacao/Manual_Usuario.md) *(versão final)*  
 
 <h2 id="autor">🤝 Autor</h2>
 
