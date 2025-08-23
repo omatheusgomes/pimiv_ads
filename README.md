@@ -62,7 +62,7 @@ O desafio consiste em desenvolver um sistema de suporte técnico baseado, seguin
 
 | Sprint | Período | Documentação | Objetivo |
 |--------|---------|--------------|-------|
-| **SPRINT 1** | 19/08 - 26/08 | [📄 Sprint 1 Docs](./Documentacao/Sprint1) | Definição dos casos de uso |
+| **SPRINT 1** | 19/08 - 26/08 | [📄 Sprint 1 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processos/sprints/sprint-1) | Definição dos casos de uso |
 | **SPRINT 2** | 26/08 - 02/09 | (📄 A definir) | (A definir) |
 | **SPRINT 3** | 02/09 - 09/09 | (📄 A definir) | (A definir) |
 
@@ -87,7 +87,7 @@ Passos para rodar o sistema, instalar dependências, etc. (mesmo que seja simple
 Toda a documentação do projeto está organizada na pasta [Documentacao](https://github.com/omatheusgomes/pimiv/tree/main/documentacao).
 
 - [Backlog do Produto](./documentacao/Backlog_Produto.md)  
-- [Backlog da Sprint 1](./Documentacao/Sprint1/Backlog_Sprint1.md)   
+- [Backlog das Sprints]()   
 - [Diagramas UML](./Documentacao/UML/) *(em desenvolvimento)*  
 - [Manual do Usuário](./Documentacao/Manual_Usuario.md) *(versão final)*  
 
