@@ -1,4 +1,9 @@
+<h2>4º Semestre ADS</h1>
 <h1 align="center">Nexhelp - PIM IV</h1>
+
+<p align="center">
+    <img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/logo_img.png" alt="NexHelp" width="400px">
+</p>
 
 <p align="center">
  <a href="#about">Sobre o Projeto</a> • 
@@ -10,10 +15,6 @@
  <a href="#doc">Documentação</a> • 
  <a href="#autor">Autor</a> • 
  <a href="#licenca">Licença</a>
-</p>
-
-<p align="center">
-    <img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/logo_img.png" alt="NexHelp" width="400px">
 </p>
 
 <h2 id="about">📌 Sobre o Projeto</h2>
@@ -28,13 +29,13 @@ Escreva a dor do parceiro/cliente e como o projeto busca resolver.
 
 *(links diretos para arquivos Markdown no próprio repositório, bem mais acessível que Word/Docs)*
 
-<h2 id="sprints">📅 Sprints</h2>
+<h2 id="sprints">📅 Cronograma de Sprints</h2>
 
 | Sprint | Período | Documentação | Objetivo |
 |--------|---------|--------------|-------|
-| SPRINT 1 | 19/08 à 26/08 | [📄 Docs](./Documentacao/Sprint1) | Definição dos casos de uso |
-| SPRINT 2 | 26/08 à 02/09 | (a definir) | (a definir) |
-| SPRINT 3 | 02/09 à 09/09 | (a definir) | (a definir) |
+| **SPRINT 1** | 19/08 - 26/08 | [📄 Sprint 1 Docs](./Documentacao/Sprint1) | Definição dos casos de uso |
+| **SPRINT 2** | 26/08 - 02/09 | (📄 A definir) | (A definir) |
+| **SPRINT 3** | 02/09 - 09/09 | (📄 A definir) | (A definir) |
 
 <h2 id="tec">⚙️ Tecnologias</h2>
 
