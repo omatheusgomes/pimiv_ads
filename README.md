@@ -54,49 +54,18 @@ Entre as principais ferramentas utilizadas no desenvolvimento do projeto estão:
 
 | Datas | Links | Objetivos            
 |----------------------|-------------------|----------------------------------
-| 14/04 à 21/04 | [Sprint 1](https://github.com/lucasconde16/pim3/tree/Sprint-1) | Modelagem dos Artefatos da UML. 
-| 21/04 à 28/04 | [Sprint 2](https://github.com/lucasconde16/pim3/tree/Sprint-2) | Elaboração do Protótipo de Interface Gráfica.
-| 28/04 à 09/05 | [Sprint 3](https://github.com/lucasconde16/pim3/tree/Sprint-3) | Estruturação do Banco de Dados e seus relacionamentos.
-| 10/05 à 21/05 | [Sprint 4](https://github.com/lucasconde16/pim3/tree/Sprint-4) | Criação da Planilha de Testes de Usabilidade.
+| 19/08 à 26/08 | [Sprint 1](https://github.com/lucasconde16/pim3/tree/Sprint-1) | Criação do repositório individual. 
+| 26/08 à 02/09 | [Sprint 2](https://github.com/lucasconde16/pim3/tree/Sprint-2) | A definir.
+| 02/09 à 09/09 | [Sprint 3](https://github.com/lucasconde16/pim3/tree/Sprint-3) | A definir.
+| 09/09 à 16/09 | [Sprint 4](https://github.com/lucasconde16/pim3/tree/Sprint-4) | A definir.
+| 16/09 à 23/09 | [Sprint 5](https://github.com/lucasconde16/pim3/tree/Sprint-4) | A definir.
 
-<h2 id="colab">🤝 Colaboradores</h2>
+<h2 id="colab">🤝 Autor</h2>
 
 Um agradecimento especial a todas as pessoas que contribuem para este projeto.
 
 <table>
   <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://media-gru1-1.cdn.whatsapp.net/v/t61.24694-24/485541952_678664004665370_1722236768666346613_n.jpg?ccb=11-4&oh=01_Q5Aa1QGLuNB5-d7saUh9ZKS2aQ6U2cEmuMYUhgpyEtJtp33RRQ&oe=680A54AE&_nc_sid=5e03e0&_nc_cat=105" width="100px;" alt="Lucas Foto"/><br>
-        <sub>
-          <b>Lucas Condé (PO)</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://media-gru1-1.cdn.whatsapp.net/v/t61.24694-24/473393646_2381097148905676_6863158889704176333_n.jpg?ccb=11-4&oh=01_Q5Aa1QFvWjZDXQmH298BbCBK_363O4ECyeHGiPG1hpfBJUqjfA&oe=680A46B1&_nc_sid=5e03e0&_nc_cat=111" width="100px;" alt="Murilo Foto"/><br>
-        <sub>
-          <b>Murilo Augusto (SM)</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://media-gru1-1.cdn.whatsapp.net/v/t61.24694-24/484889685_1215814306628448_6300654456061629103_n.jpg?ccb=11-4&oh=01_Q5Aa1QGXlqoV_Z_HdYW2fFDIB74To9ZIeScYl-nBgydsO_hpUQ&oe=680A4D47&_nc_sid=5e03e0&_nc_cat=110" width="100px;" alt="Gulherme Foto"/><br>
-        <sub>
-          <b>Guilherme Rodrigues (Dev)</b>
-        </sub>
-      </a>
-    </td>
-        <td align="center">
-      <a href="#">
-        <img src="https://media-gru1-1.cdn.whatsapp.net/v/t61.24694-24/484877578_928458015858768_3272773417018296064_n.jpg?ccb=11-4&oh=01_Q5Aa1QFdoEtqgvHWA6raLL3ugh-bjbTyevBCiJtQnLhix-asOA&oe=680A3695&_nc_sid=5e03e0&_nc_cat=105" width="100px;" alt="Igor Foto"/><br>
-        <sub>
-          <b>Igor Pineli (Dev)</b>
-        </sub>
-      </a>
-    </td>
     <td align="center">
       <a href="#">
         <img src="https://media-gru1-1.cdn.whatsapp.net/v/t61.24694-24/471428086_927487132691453_5456467189288147494_n.jpg?ccb=11-4&oh=01_Q5Aa1QEhM9QtoDKvUvIpOfcHzZltb6IDEFMMhCY1gQSPAgFdHA&oe=680A49FD&_nc_sid=5e03e0&_nc_cat=105" width="100px;" alt="Matheus Foto"/><br>
