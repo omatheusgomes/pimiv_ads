@@ -110,4 +110,4 @@ Um agradecimento especial a todas as pessoas que contribuem para este projeto.
 
 <h2 id="licenca">📃 Licença</h2>
 
-[MIT © Matheus Gomes.](https://github.com/lucasconde16/pim3/blob/main/LICENSE)
+[MIT © Matheus Gomes.](https://github.com/omatheusgomes/teste/blob/main/LICENSE)
