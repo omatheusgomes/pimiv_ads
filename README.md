@@ -84,9 +84,9 @@ Passos para rodar o sistema, instalar dependências, etc. (mesmo que seja simple
 
 <h2 id="doc">📂 Documentação</h2>
 
-Toda a documentação do projeto está organizada na pasta [Documentacao](./Documentacao).
+Toda a documentação do projeto está organizada na pasta [Documentacao](https://github.com/omatheusgomes/pimiv/tree/main/documentacao).
 
-- [Backlog do Produto](./Documentacao/Backlog_Produto.md)  
+- [Backlog do Produto](./documentacao/Backlog_Produto.md)  
 - [Backlog da Sprint 1](./Documentacao/Sprint1/Backlog_Sprint1.md)   
 - [Diagramas UML](./Documentacao/UML/) *(em desenvolvimento)*  
 - [Manual do Usuário](./Documentacao/Manual_Usuario.md) *(versão final)*  
