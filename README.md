@@ -18,10 +18,12 @@
 </p>
 
 <h2 id="about">📌 Sobre o Projeto</h2>
-Breve explicação sobre o Nexhelp (já está legal o que você escreveu).
 
-<h2 id="desafio">🎯 Descrição do Desafio</h2>
-Escreva a dor do parceiro/cliente e como o projeto busca resolver.
+Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer atendimento rápido, automatizado e eficiente. Combinando inteligência artificial e automação, garantimos uma experiência de HelpDesk moderna, inteligente e totalmente voltada à satisfação do cliente.
+
+<h2 id="desafio">🎯 Desafio</h2>
+
+O desafio consiste em desenvolver um sistema de suporte técnico baseado, seguindo as etapas clássicas de um projeto orientado a objetos: análise de requisitos, modelagem UML, estruturação da arquitetura e implementação. O sistema deve ser multiplataforma (web, mobile e desktop), integrado a um banco de dados relacional para gerenciamento dos chamados e usuários, e contar com recursos de inteligência artificial para classificar, priorizar e sugerir soluções automáticas. Todo o processo será documentado e validado de acordo com os requisitos do PIM, desde a concepção até os testes finais.
 
 ---
 
