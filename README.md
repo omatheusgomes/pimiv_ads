@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
- <a href="#about">Sobre o Projeto</a> • 
+ <a href="#about">Sobre</a> • 
  <a href="#desafio">Desafio</a> • 
  <a href="#backlog">Backlog</a> • 
  <a href="#sprints">Sprints</a> • 
