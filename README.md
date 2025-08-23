@@ -86,10 +86,10 @@ Passos para rodar o sistema, instalar dependências, etc. (mesmo que seja simple
 
 Toda a documentação do projeto está organizada na pasta [Documentacao](https://github.com/omatheusgomes/pimiv/tree/main/documentacao).
 
-- [Backlog do Produto](./documentacao/Backlog_Produto.md)  
-- [Backlog das Sprints]()   
-- [Diagramas UML](./Documentacao/UML/) *(em desenvolvimento)*  
-- [Manual do Usuário](./Documentacao/Manual_Usuario.md) *(versão final)*  
+- [Backlog do Produto](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/backlogs/product-backlog) *(em desenvolvimento)* 
+- [Backlog das Sprints](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/backlogs/sprints-backlog) *(em desenvolvimento)*   
+- [Diagramas UML](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/imagens/diagramas) *(em desenvolvimento)*  
+- [Manual do Usuário](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/cliente/Manual_Usuario.md) *(em desenvolvimento)*  
 
 <h2 id="autor">🤝 Autor</h2>
 
