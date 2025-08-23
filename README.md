@@ -2,7 +2,7 @@
 <h1 align="center">Nexhelp - PIM IV</h1>
 
 <p align="center">
-    <img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/logo_img.png" alt="NexHelp" width="400px">
+    <img src="https://github.com/omatheusgomes/pimiv/blob/main/documentacao/imagens/logo_img.png" alt="NexHelp" width="400px">
 </p>
 
 <p align="center">
