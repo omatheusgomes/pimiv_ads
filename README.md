@@ -1,80 +1,79 @@
-<h1 align="center" style="font-weight: bold;">Nexhelp - PIM IV</h1>
+<h1 align="center">Nexhelp - PIM IV</h1>
 
 <p align="center">
- <a href="#about">Sobre Nós</a> • 
- <a href="#desenv">Desenvolvimento</a> • 
-  <a href="#softw">Ferramentas</a> • 
-  <a href="#calendar">Entregas</a> • 
-  <a href="#colab">Colaboradores</a> 
+ <a href="#about">Sobre o Projeto</a> • 
+ <a href="#desafio">Desafio</a> • 
+ <a href="#backlog">Backlog</a> • 
+ <a href="#sprints">Sprints</a> • 
+ <a href="#tec">Tecnologias</a> • 
+ <a href="#exec">Execução</a> • 
+ <a href="#doc">Documentação</a> • 
+ <a href="#autor">Autor</a> • 
+ <a href="#licenca">Licença</a>
 </p>
 
 <p align="center">
-    <img src="https://github.com/omatheusgomes/teste/blob/main/Imagens/logo_img.png" alt="NexHelp" width="400px">
+    <img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/logo_img.png" alt="NexHelp" width="400px">
 </p>
 
-<h2 id="about">📌 Sobre Nós</h2>
+<h2 id="about">📌 Sobre o Projeto</h2>
+Breve explicação sobre o Nexhelp (já está legal o que você escreveu).
 
-Nexhelp é uma empresa de suporte técnico baseada em IA, focada em oferecer atendimento rápido, automatizado e eficiente. Combinando inteligência artificial e automação, garantimos uma experiência de HelpDesk moderna, inteligente e totalmente voltada à satisfação do cliente.
+<h2 id="desafio">🎯 Descrição do Desafio</h2>
+Escreva a dor do parceiro/cliente e como o projeto busca resolver.
 
-<h2 id="desenv">🚀 Desenvolvimento</h2>
+<h2 id="backlog">🗂️ Backlog</h2>
+- [Backlog do Produto](./Documentacao/Backlog_Produto.md)  
+- [Backlog da Sprint 1](./Documentacao/Sprint1/Backlog_Sprint1.md)  
 
-### [Modelagem](https://github.com/lucasconde16/pim3/tree/Sprint-1)
+*(links diretos para arquivos Markdown no próprio repositório, bem mais acessível que Word/Docs)*
 
-A modelagem do sistema foi feita utilizando a linguagem UML, com o auxílio da ferramenta Astah para criação de diagramas como casos de uso, classes e sequência, garantindo uma visão clara e organizada do funcionamento do sistema.
+<h2 id="sprints">📅 Sprints</h2>
 
-### [Interface](https://github.com/lucasconde16/pim3/tree/Sprint-2)
+| Sprint | Período | Documentação | Objetivo |
+|--------|---------|--------------|-------|
+| SPRINT 1 | 19/08 à 26/08 | [📄 Docs](./Documentacao/Sprint1) | Definição dos casos de uso |
+| SPRINT 2 | 26/08 à 02/09 | (a definir) | (a definir) |
+| SPRINT 3 | 02/09 à 09/09 | (a definir) | (a definir) |
 
-A interface do NexHelp foi prototipada no Figma, com foco em uma experiência clean, interativa e eficiente. O design prioriza a usabilidade, permitindo navegação fluida e intuitiva para usuários e atendentes.
+<h2 id="tec">⚙️ Tecnologias</h2>
 
-### [Banco de Dados](https://github.com/lucasconde16/pim3/tree/Sprint-3)
+<h4 align="center">
+ <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+ <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+ <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+ <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-02A8EF?style=for-the-badge&logo=uml&logoColor=white"></a>
+ <a href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
+ <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+</h4>
 
-Utilizamos o brModelo para criação dos diagramas do banco de dados e o SQL Server como sistema gerenciador, assegurando estrutura, integridade e desempenho nas operações com os dados do sistema NexHelp.
+<h2 id="exec">▶️ Como Executar</h2>
+Passos para rodar o sistema, instalar dependências, etc. (mesmo que seja simples agora).
 
-### [Testes](https://github.com/lucasconde16/pim3/tree/Sprint-4)
+<h2 id="doc">📂 Documentação</h2>
+- [Pasta Geral de Documentação](./Documentacao)  
+  - Checklist DoR e DoD  
+  - Backlogs  
+  - Diagramas UML (futuro)  
+  - Manual do Usuário  
 
-Foi elaborada uma planilha de testes de usabilidade no Excel, contendo os cenários, critérios e fluxos que serão utilizados em testes futuros para validar a experiência do usuário e a eficiência das funcionalidades do sistema NexHelp.
+<h2 id="autor">🤝 Autor</h2>
 
-
-<h2 id="softw">⚙️ Ferramentas</h2>
-
-![Astah](https://img.shields.io/badge/astah-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-Entre as principais ferramentas utilizadas no desenvolvimento do projeto estão:
-- Utilização do [Astah UML](https://astah.net/products/astah-uml/) para modelagem dos diagramas referentes as etapas do projeto.
-- Utilização da linguagem de programação [Python](https://www.python.com/), no editor [VSCode](https://code.visualstudio.com/) para implementação dos sistemas Desktop e Mobile.
-- Utilização da plataforma [Figma](https://www.figma.com/) para elaboração de protótipos interativos da interface do projeto.
-- Utilização do sistema [SQL Server](https://www.microsoft.com/pt-br/sql-server) para gerenciamento do banco de dados do projeto.
-- Utilização do [Excel](https://excel.cloud.microsoft/) para criação das planilhas de testes de usabilidade do sistema.
-<h2 id="calendar">📅 Entregas</h2>
-
-| Datas | Links | Objetivos            
-|----------------------|-------------------|----------------------------------
-| 19/08 à 26/08 | [Sprint 1](https://github.com/lucasconde16/pim3/tree/Sprint-1) | Criação do repositório individual. 
-| 26/08 à 02/09 | [Sprint 2](https://github.com/lucasconde16/pim3/tree/Sprint-2) | A definir.
-| 02/09 à 09/09 | [Sprint 3](https://github.com/lucasconde16/pim3/tree/Sprint-3) | A definir.
-| 09/09 à 16/09 | [Sprint 4](https://github.com/lucasconde16/pim3/tree/Sprint-4) | A definir.
-| 16/09 à 23/09 | [Sprint 5](https://github.com/lucasconde16/pim3/tree/Sprint-4) | A definir.
-
-<h2 id="colab">🤝 Autor</h2>
-
-Um agradecimento especial a todas as pessoas que contribuem para este projeto.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://media-gru1-1.cdn.whatsapp.net/v/t61.24694-24/471428086_927487132691453_5456467189288147494_n.jpg?ccb=11-4&oh=01_Q5Aa1QEhM9QtoDKvUvIpOfcHzZltb6IDEFMMhCY1gQSPAgFdHA&oe=680A49FD&_nc_sid=5e03e0&_nc_cat=105" width="100px;" alt="Matheus Foto"/><br>
-        <sub>
-          <b>Matheus Gomes (Dev)</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
+Este projeto foi desenvolvido por mim com dedicação, como parte do meu aprendizado e evolução na área de desenvolvimento.
+<table> 
+ <tr> 
+  <td align="center"> 
+   <a href="#"> 
+    <img src="https://media-gru1-1.cdn.whatsapp.net/v/t61.24694-24/491873468_731137699484095_2564908480998265957_n.jpg?ccb=11-4&oh=01_Q5Aa2QEl4cF0muQPcGY7-rU8Kh0osfkJj4qmoJojqAxzs7s4qg&oe=68B74AB7&_nc_sid=5e03e0&_nc_cat=107" width="100px;" alt="Matheus Foto"/>
+    <br> 
+    <sub> 
+     <b>Matheus Gomes (Dev)
+     </b> 
+    </sub> 
+   </a>
+  </td> 
+ </tr> 
 </table>
 
 <h2 id="licenca">📃 Licença</h2>
