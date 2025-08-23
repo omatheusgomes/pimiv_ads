@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Nexhelp - PIM III</h1>
+<h1 align="center" style="font-weight: bold;">Nexhelp - PIM IV</h1>
 
 <p align="center">
  <a href="#about">Sobre Nós</a> • 
@@ -110,4 +110,4 @@ Um agradecimento especial a todas as pessoas que contribuem para este projeto.
 
 <h2 id="licenca">📃 Licença</h2>
 
-[MIT © Lucas Condé.](https://github.com/lucasconde16/pim3/blob/main/LICENSE)
+[MIT © Matheus Gomes.](https://github.com/lucasconde16/pim3/blob/main/LICENSE)
