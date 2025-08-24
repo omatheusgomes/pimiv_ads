@@ -11,7 +11,6 @@
  <a href="#backlog">Backlog</a> • 
  <a href="#sprints">Sprints</a> • 
  <a href="#tec">Tecnologias</a> • 
- <a href="#exec">Execução</a> • 
  <a href="#doc">Documentação</a> • 
  <a href="#autor">Autor</a> • 
  <a href="#licenca">Licença</a>
@@ -79,12 +78,9 @@ O desafio consiste em desenvolver um sistema de suporte técnico baseado, seguin
  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 </h4>
 
-<h2 id="exec">▶️ Como Executar</h2>
-Passos para rodar o sistema, instalar dependências, etc. (mesmo que seja simples agora).
-
 <h2 id="doc">📂 Documentação</h2>
 
-Toda a documentação do projeto está organizada na pasta [Documentacao](https://github.com/omatheusgomes/pimiv/tree/main/documentacao).
+Toda a documentação do projeto está organizada na pasta [documentacao](https://github.com/omatheusgomes/pimiv/tree/main/documentacao).
 
 - [Backlog do Produto](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/backlogs/product-backlog) *(em desenvolvimento)* 
 - [Backlog das Sprints](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/backlogs/sprints-backlog) *(em desenvolvimento)*   
