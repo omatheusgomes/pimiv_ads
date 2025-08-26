@@ -39,3 +39,8 @@ O diagrama de casos de uso apresenta, de forma visual e simplificada, as princip
 <h2 id="descritivo">📝 Caso de Uso Descritivo</h2>
 
 Abaixo, é apresentado um caso de uso descritivo, que detalha passo a passo como uma ação específica é realizada no sistema. Esse modelo complementa o diagrama, oferecendo uma visão mais clara do fluxo e das condições envolvidas na funcionalidade.
+
+<p align="center">
+    <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/casodeusodescritivo.png" alt="Caso de Uso Descritivo" width="600"> 
+</p>
+
