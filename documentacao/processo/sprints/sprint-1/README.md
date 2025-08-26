@@ -24,9 +24,9 @@ Cada caso de uso é definido a partir da análise dos requisitos presentes no ba
 
 | Rank | Prioridade | User Story | Use Case |
 | :--: | :--------: | ---------- | ---------- |
-|  1   | Alta       | Como usuário final, desejo registrar um chamado para que eu possa solicitar suporte técnico para meu problema. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/diagramas/casosdeuso_img.png" alt="Diagrama de Casos de Uso" width="500">|
+|  1   | Alta       | Como usuário final, desejo registrar um chamado para que eu possa solicitar suporte técnico para meu problema. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/abrirchamado.png" alt="Diagrama de Casos de Uso" width="500">|
 | | 
-|  2   | Alta       | Como atendente ou sistema IA, desejo classificar automaticamente os chamados para acelerar o atendimento. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/diagramas/casosdeuso_img.png" alt="Diagrama de Casos de Uso" width="500">|
+|  2   | Alta       | Como atendente ou sistema IA, desejo classificar automaticamente os chamados para acelerar o atendimento. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/classificarchamado.png" alt="Diagrama de Casos de Uso" width="500">|
 
 <h2 id="diagrama">📈 Diagrama de Casos de Uso</h2>
 
