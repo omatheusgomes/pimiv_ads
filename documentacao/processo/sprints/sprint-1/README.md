@@ -6,6 +6,7 @@
 
 <p align="center">
  <a href="#desafio">Desafio</a> • 
+ <a href="#definicao">Definição</a> • 
  <a href="#diagrama">Diagrama de Casos de Uso</a> • 
  <a href="#descritivo">Caso de Uso Descritivo</a>
 </p>
@@ -17,6 +18,9 @@
 
 O principal desafio desta sprint foi transformar os requisitos levantados durante a fase de análise em casos de uso claros e organizados, que representem as funcionalidades essenciais do sistema. Também foi importante garantir o alinhamento com o backlog e preparar uma base sólida para as próximas etapas.
 
+<h2 id="definicao">🔍 Definição de Casos de Uso</h2>
+Cada caso de uso é definido a partir da análise dos requisitos presentes no backlog do produto. A partir dessa análise, identificamos funcionalidades que o sistema deve oferecer e as transformamos em casos de uso, representando como o usuário irá interagir com o sistema para atingir um objetivo específico.
+
 <h2 id="diagrama">📈 Diagrama de Casos de Uso</h2>
 
 O diagrama de casos de uso apresenta, de forma visual e simplificada, as principais interações entre os usuários (atores) e o sistema. Ele ajuda a entender quais funcionalidades estão previstas e como cada tipo de usuário poderá utilizá-las.
@@ -25,6 +29,6 @@ O diagrama de casos de uso apresenta, de forma visual e simplificada, as princip
     <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/diagramas/casosdeuso_img.png" alt="Diagrama de Casos de Uso" width="1000"> 
 </p>
 
-<h2 id="descritivo">📈 Caso de Uso descritivo</h2>
+<h2 id="descritivo">📝 Caso de Uso Descritivo</h2>
 
 Abaixo, é apresentado um caso de uso descritivo, que detalha passo a passo como uma ação específica é realizada no sistema. Esse modelo complementa o diagrama, oferecendo uma visão mais clara do fluxo e das condições envolvidas na funcionalidade.
