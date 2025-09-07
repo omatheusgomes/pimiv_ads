@@ -46,8 +46,10 @@ Confira a lista completa: [Backlog do Produto](https://github.com/omatheusgomes/
 | Sprint | Período | Documentação | Objetivo |
 |--------|---------|--------------|-------|
 | **SPRINT 1** | 19/08 - 26/08 | [📄 Sprint 1 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-1) | Elaboração dos casos de uso, baseado no backlog do produto. |
-| **SPRINT 2** | 26/08 - 02/09 | [📄 Sprint 2 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-2) | *(A definir)* |
-| **SPRINT 3** | 02/09 - 09/09 | [📄 Sprint 3 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-3) | *(A definir)* |
+| **SPRINT 2** | 26/08 - 02/09 | [📄 Sprint 2 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-2) | Definição das classes do sistema, baseados nos casos de uso. |
+| **SPRINT 3** | 02/09 - 09/09 | [📄 Sprint 3 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-3) | Criação dos diagramas de sequência, representando as operações do usuário. |
+| **SPRINT 4** | 09/09 - 16/09 | [📄 Sprint 4 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-4) | *(a definir)* |
+| **SPRINT 5** | 16/09 - 23/09 | [📄 Sprint 5 Docs](https://github.com/omatheusgomes/pimiv/tree/main/documentacao/processo/sprints/sprint-5) | *(a definir)* |
 
 <h2 id="tec">⚙️ Tecnologias</h2>
 
