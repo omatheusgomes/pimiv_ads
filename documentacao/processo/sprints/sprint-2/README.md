@@ -23,9 +23,8 @@ As classes foram definidas a partir da análise dos casos de uso e dos requisito
 
 | Classe | Descrição | Imagem |
 | :----: | --------- | ------ |
-| Chamado | Representa a solicitação de suporte feita pelo usuário, armazenando dados essenciais e seu status. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/classes/chamado.png" alt="Classe Chamado" width="400"> |
-| Usuário | Representa os diferentes perfis de acesso (usuário final, técnico, gestor), com seus atributos de autenticação e dados pessoais. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/classes/usuario.png" alt="Classe Usuario" width="400"> |
-| Técnico | Especialização de usuário responsável por atender chamados e registrar soluções. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/classes/tecnico.png" alt="Classe Tecnico" width="400"> |
+| Chamado | Representa a solicitação de suporte feita pelo usuário, armazenando dados essenciais e seu status. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/classechamado.png" alt="Classe Chamado" width="500"> |
+| Usuário | Representa os diferentes perfis de acesso (usuário final, técnico, gestor), com seus atributos de autenticação e dados pessoais. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/usuario.png" alt="Classe Usuario" width="500"> |
 
 <h2 id="diagrama">📈 Diagrama de Classes</h2>
 
