@@ -36,7 +36,7 @@ O diagrama de classes apresenta a **visão estrutural do sistema**, mostrando en
 
 <h2 id="atributos">📝 Atributos e Métodos</h2>
 
-Abaixo estão representados os principais atributos e métodos de algumas das classes mais relevantes do sistema, detalhando suas responsabilidades e funcionalidades.
+Abaixo estão representados os principais atributos e métodos de uma das classes mais relevantes do sistema, detalhando suas responsabilidades e funcionalidades.
 
 <p align="center">
     <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/atributos_metodos.png" alt="Atributos e Métodos" width="800"> 
