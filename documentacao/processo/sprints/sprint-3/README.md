@@ -31,6 +31,7 @@ Os diagramas de sequência foram definidos com base no **diagrama de classes** e
 O diagrama de sequência ilustra de forma visual a **linha do tempo das interações** entre usuários, objetos e componentes do sistema. Ele evidencia a ordem das mensagens trocadas e como os processos são encadeados.
 
 <p align="center">
-    <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/diagramas/sequencia.pdf" alt="Diagrama de Sequência Geral" width="1000"> 
+  <a href="documentacao/imagens/diagramas/sequencia.pdf">📄 Ver diagrama de sequência (PDF)</a>
 </p>
+
 
