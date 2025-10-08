@@ -23,7 +23,7 @@ Os diagramas de sequência foram definidos com base no **diagrama de classes** e
 
 | Funcionalidade | Descrição | Imagem |
 | :------------: | --------- | ------ |
-| Abrir Chamado | Representa o fluxo desde o registro de um chamado pelo usuário até o armazenamento no sistema. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/sequencia/abrirchamado.png" alt="Sequência Abrir Chamado" width="600"> |
+| Abrir Chamado | Representa o fluxo desde o registro de um chamado pelo usuário até o armazenamento no sistema. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/sequencia_abirchamado.png" alt="Sequência Abrir Chamado" width="600"> |
 | Classificar Chamado | Mostra a interação entre sistema IA e técnico para classificar automaticamente o chamado. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/sequencia/classificarchamado.png" alt="Sequência Classificar Chamado" width="600"> |
 
 <h2 id="diagrama">📈 Diagrama de Sequência</h2>
