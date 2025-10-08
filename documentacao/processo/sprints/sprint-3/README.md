@@ -24,20 +24,13 @@ Os diagramas de sequência foram definidos com base no **diagrama de classes** e
 | Funcionalidade | Descrição | Imagem |
 | :------------: | --------- | ------ |
 | Abrir Chamado | Representa o fluxo desde o registro de um chamado pelo usuário até o armazenamento no sistema. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/sequencia_abirchamado.png" alt="Sequência Abrir Chamado" width="600"> |
-| Classificar Chamado | Mostra a interação entre sistema IA e técnico para classificar automaticamente o chamado. | <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/sequencia/classificarchamado.png" alt="Sequência Classificar Chamado" width="600"> |
+| Avaliar Atendimento e Encerrar Chamado | Fluxo em que o Cliente avalia o atendimento; o Backend registra a nota, notifica o Técnico em casos críticos para possível reabertura e, se a avaliação for positiva, encerra o chamado e informa o usuário.| <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/sequencia_avaliaratendimento.png" alt="Sequência " width="600"> |
 
 <h2 id="diagrama">📈 Diagrama de Sequência</h2>
 
 O diagrama de sequência ilustra de forma visual a **linha do tempo das interações** entre usuários, objetos e componentes do sistema. Ele evidencia a ordem das mensagens trocadas e como os processos são encadeados.
 
 <p align="center">
-    <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/diagramas/sequencia_img.png" alt="Diagrama de Sequência Geral" width="1000"> 
+    <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/diagramas/sequencia.pdf" alt="Diagrama de Sequência Geral" width="1000"> 
 </p>
 
-<h2 id="fluxo">📝 Fluxo de Mensagens</h2>
-
-Abaixo está detalhado o fluxo de mensagens de uma das interações mais relevantes do sistema, destacando a sequência de chamadas entre objetos e a lógica que sustenta o processo.
-
-<p align="center">
-    <img src="https://github.com/omatheusgomes/pimiv_ads/blob/main/documentacao/imagens/sequencia/fluxo_mensagens.png" alt="Fluxo de Mensagens" width="800"> 
-</p>
